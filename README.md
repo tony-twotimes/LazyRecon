@@ -1,4 +1,4 @@
-# LazyRecon 🥷
+# LazyRecon 🛏️
 
 > **An automated reconnaissance wrapper for bug bounty hunting and infrastructure mapping.**
 
