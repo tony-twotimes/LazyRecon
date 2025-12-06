@@ -2,7 +2,7 @@
 
 # ==========================================
 # LazyRecon - Automated Reconnaissance Tool
-# Author: [tony-twotimes]
+# Author: tony-twotimes
 # Usage: ./lazy_recon.sh <domain>
 # ==========================================
 
