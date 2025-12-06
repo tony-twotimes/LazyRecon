@@ -6,7 +6,7 @@
 # Usage: ./lazy_recon.sh <domain>
 # ==========================================
 
-# 1. VALIDATION: Check if a domain was provided
+# 1. Check if a domain was provided
 if [ -z "$1" ]; then
   echo "❌ Error: No target specified."
   echo "Usage: ./lazy_recon.sh <domain>"
@@ -16,7 +16,7 @@ fi
 TARGET=$1
 echo "🚀 [LazyRecon] Initiating scan against: $TARGET"
 
-# 2. SETUP: Create a dedicated directory for results
+# 2. Create a dedicated directory for results
 mkdir -p $TARGET
 echo "fyp📁 Created directory: $TARGET/"
 
